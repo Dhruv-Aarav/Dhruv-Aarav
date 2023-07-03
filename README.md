@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aarav.
+- 👋 Hi, I’m Dhruv.
 - 👀 I’m interested in Technology.
 - 🌱 I’m currently learning Anything that is fascinating.
 - 💞️ I’m looking to collaborate on Tech Giants.
